@@ -12,7 +12,7 @@
     "core-js": "3.22.2",
     "core-js-compat": "3.22.2",
     "mkdirp": ">=0.5.5 <1",
-    "webpack": ">=4.46.0 <5"
+    "webpack": ">=5.98.0"
   },
   "engines": {
     "node": ">=8.9.0"
